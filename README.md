@@ -2,7 +2,7 @@
 
 This notebook contains simulations pertaining to random trees and random walks on random trees. 
 
-- The file B-ary trees simulates the distribution of the cover time of a random walk on a b-ary tree. 
+- The file B-ary Random trees simulates the distribution of the cover time of a random walk on a b-ary tree. 
 
 - The file Snake_Plots simulates examples of globally centred discrete snakes on size-conditionned Poisson(1) Bienaymé trees. An example being:
 <p align="center">
